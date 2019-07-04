@@ -2,16 +2,22 @@ body{
     background-color: #011b2d;
 }
 #principal{
-    background-image: url("https://images.unsplash.com/photo-1506617420156-8e4536971650?ixlib=rb-1.2.1&auto=format&fit=crop&w=968&q=80");
-    height: 72vh;
+    background-image: url("/img/imh.png");
+    height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
     background-color: #011b2d;
-    opacity: 0.6;
 }
 
 .color{
     color: #ffffff;
 }
+
+footer{
+    background-color: #ffffff;
+    color: #808080;
+    font-size: 14pt;
+}
+
