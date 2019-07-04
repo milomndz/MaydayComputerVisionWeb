@@ -1,5 +1,5 @@
 body{
-    background-color: #011b2d;
+    background-color: #ffffff;
 }
 #principal{
     background-image: url("/img/imh.png");
@@ -16,8 +16,8 @@ body{
 }
 
 footer{
-    background-color: #ffffff;
-    color: #808080;
-    font-size: 14pt;
+    background-color: #0D47A1;
+    color: #ffffff;
+    font-size: 12pt;
 }
 
