@@ -1,0 +1,23 @@
+body{
+    background-color: #ffffff;
+}
+#principal{
+    background-image: url("/img/imh.png");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    background-color: #011b2d;
+}
+
+.color{
+    color: #ffffff;
+}
+
+footer{
+    background-color: #0D47A1;
+    color: #ffffff;
+    font-size: 12pt;
+}
+
